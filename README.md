@@ -18,5 +18,6 @@ A **simple web interface** is included using **Gradio**, allowing users to input
 
 ```bash
 pip install sentence-transformers
-pip install gradio
+pip install torch
+
 
